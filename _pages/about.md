@@ -30,15 +30,15 @@ His current research interests include distributed optimization, class imbalance
 
 **2025**
 
-**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,  "Progressive Distribution Matching for Federated Semi-supervised Learning" (AAAI2025)
+**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,  "Progressive Distribution Matching for Federated Semi-supervised Learning" (AAAI 2025, CCF A)
 
 **2024**
 
-**Dongping Liao**, Xitong Gao, Chengzhong Xu, "Impartial Adversarial Distillation: Addressing Biased Data-free Knowledge Distillation via Adaptive Constrained Optimization" (AAAI2024)
+**Dongping Liao**, Xitong Gao, Chengzhong Xu, "Impartial Adversarial Distillation: Addressing Biased Data-free Knowledge Distillation via Adaptive Constrained Optimization" (AAAI 2024, CCF A)
 
 **2023**
 
-**Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu, "Adaptive Channel Sparsity for Federated Learning under System Heterogeneity" (CVPR2023)
+**Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu, "Adaptive Channel Sparsity for Federated Learning under System Heterogeneity" (CVPR 2023, CCF A)
 
 
 # 🎖 Honors and Awards

@@ -22,8 +22,8 @@ His current research interests include distributed optimization, class imbalance
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025. 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023. 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023. 
 
 # 📝 Publications 

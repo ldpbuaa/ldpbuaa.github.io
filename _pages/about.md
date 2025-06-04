@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Dongping Liao is now a postdoc researcher at University of Macau. In 2024, he received his Ph.D. degree in computer science from the Faculty of Science and Technology, University of Macau, Taipa, China. Before that, he received B.S. (2016) and M.S. (2019) degrees in Space Astronautics from Beihang University, during which he dedicated on cooperative perception and planing of Unmanned Aerial Vehicles (UAVs) and Robots (Multi-agent System). 
+Dongping Liao (廖东平) is now a postdoc researcher at University of Macau. In 2024, he received his Ph.D. degree in computer science from the Faculty of Science and Technology, University of Macau, Taipa, China. Before that, he received B.S. (2016) and M.S. (2019) degrees in Space Astronautics from Beihang University, during which he dedicated on cooperative perception and planing of Unmanned Aerial Vehicles (UAVs) and Robots (Multi-agent System). 
 His current research interests include distributed optimization, class imbalance learning and multi-modal models.
 
 

@@ -31,7 +31,16 @@ His current research interests include distributed optimization, class imbalance
 **2025**
 
 
-**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,  "Progressive Distribution Matching for Federated Semi-supervised Learning" (AAAI 2025, CCF A)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper-fedpdm-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive Distribution Matching for Federated Semi-supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32551)
+
+**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,
+
+- We observe the distribution mismatch phenomenon of federated semi-supervised learning and propose to leverage Optimal Transport to align the distribution of unlabeled data.
+</div>
+</div>
 
 **2024**
 
@@ -42,9 +51,10 @@ His current research interests include distributed optimization, class imbalance
 
 **Dongping Liao**, Xitong Gao, Chengzhong Xu
 
-- We observe an interesting phenomenon when exploring the the problem of *biased adversarial data-free knowledge distillation*, which has a diverse impact on different groups of synthetic data. We put forward an adaptive constrained optimization framework to balance the KL divergence of the majority and minority classes.
+- We observe an interesting phenomenon when exploring the *biased adversarial data-free knowledge distillation* problem, which has a diverse impact on different groups of synthetic data. We put forward an adaptive constrained optimization framework to balance the KL divergence of the majority and minority classes.
 </div>
 </div>
+
 **2023**
 
 

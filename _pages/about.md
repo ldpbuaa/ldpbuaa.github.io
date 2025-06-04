@@ -30,6 +30,7 @@ His current research interests include distributed optimization, class imbalance
 
 **2025**
 
+
 **Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,  "Progressive Distribution Matching for Federated Semi-supervised Learning" (AAAI 2025, CCF A)
 
 **2024**
@@ -38,8 +39,17 @@ His current research interests include distributed optimization, class imbalance
 
 **2023**
 
-**Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu, "Adaptive Channel Sparsity for Federated Learning under System Heterogeneity" (CVPR 2023, CCF A)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/paper-flado-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Channel Sparsity for Federated Learning under System Heterogeneity](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu
+
+- We figure out the coupling effect of data and system heterogeneity under federated training, namely, the gradient deviation. We propose Flado, which is equipped with adaptive channel sparsity layer to address the conflicting gradient updates among client models. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2018.06* The second place for Gomoku AI Competition, DeepGlint

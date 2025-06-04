@@ -35,19 +35,27 @@ His current research interests include distributed optimization, class imbalance
 
 **2024**
 
-**Dongping Liao**, Xitong Gao, Chengzhong Xu, "Impartial Adversarial Distillation: Addressing Biased Data-free Knowledge Distillation via Adaptive Constrained Optimization" (AAAI 2024, CCF A)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper-ipad-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Impartial Adversarial Distillation: Addressing Biased Data-free Knowledge Distillation via Adaptive Constrained Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28120)
+
+**Dongping Liao**, Xitong Gao, Chengzhong Xu
+
+- We observe an interesting phenomenon when exploring the the problem of *biased adversarial data-free knowledge distillation*, which has a diverse impact on different groups of synthetic data. We put forward an adaptive constrained optimization framework to balance the KL divergence of the majority and minority classes.
+</div>
+</div>
 **2023**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/paper-flado-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Channel Sparsity for Federated Learning under System Heterogeneity](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Adaptive Channel Sparsity for Federated Learning under System Heterogeneity](https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_Adaptive_Channel_Sparsity_for_Federated_Learning_Under_System_Heterogeneity_CVPR_2023_paper.pdf)
 
 **Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu
 
-- We figure out the coupling effect of data and system heterogeneity under federated training, namely, the gradient deviation. We propose Flado, which is equipped with adaptive channel sparsity layer to address the conflicting gradient updates among client models. 
+- We figure out the coupling effect of data and system heterogeneity under federated training, namely, the gradient deviation among client models. We propose Flado, which is equipped with adaptive channel sparsity layer to address the conflicting gradient updates while achieving computational efficiency. 
 </div>
 </div>
 

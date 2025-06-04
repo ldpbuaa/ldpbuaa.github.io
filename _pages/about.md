@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Dongping Liao is now a postdoc researcher at University of Macau. In 2024, he received his Ph.D. degree in computer science from the Faculty of Science and Technology, University of Macau, Taipa, China.
+Dongping Liao is now a postdoc researcher at University of Macau. In 2024, he received his Ph.D. degree in computer science from the Faculty of Science and Technology, University of Macau, Taipa, China. Before that, he received B.S. (2016) and M.S. (2019) degrees in Space Astronautics from Beihang University, during which he dedicated on cooperative perception and planing of Unmanned Aerial Vehicle (UAVs) and Robots (Multi-agent System). 
 His current research interests include distributed optimization, class imbalance learning and multi-modal models.
 
 
@@ -29,7 +29,6 @@ His current research interests include distributed optimization, class imbalance
 # 📝 Publications 
 
 **2025**
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper-fedpdm-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +64,7 @@ His current research interests include distributed optimization, class imbalance
 
 **Dongping Liao**, Xitong Gao, Yiren Zhao, Chengzhong Xu
 
-- We figure out the coupling effect of data and system heterogeneity under federated training, namely, the gradient deviation among client models. We propose Flado, which is equipped with adaptive channel sparsity layer to address the conflicting gradient updates while achieving computational efficiency. 
+- We figure out the coupling effect of data and system heterogeneity under federated training, namely, the gradient deviation among client models. We propose Flado, which is equipped with adaptive channel sparsity layers to address the conflicting gradient problem while achieving computational efficiency. 
 </div>
 </div>
 

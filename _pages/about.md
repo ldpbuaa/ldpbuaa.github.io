@@ -82,3 +82,8 @@ His current research interests include distributed optimization, class imbalance
         <img src="//www.clustrmaps.com/map_v2.png?d=WYPUyek2JoLfJkFYzz0xq0foo5Zcx8BuXFP0ODkcy1w&cl=ffffff&w=300" width="300" />
     </a>
 </div>
+
+---
+
+<p style="color:#787878;margin-top:0">© Copyright 2025 Dongping Liao</p>
+<p style="color:#787878;margin-top:0">Last Updated: June 10th, 2025</p>

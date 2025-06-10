@@ -72,3 +72,5 @@ His current research interests include distributed optimization, class imbalance
 - *2018.06* The second place for Gomoku AI Competition, DeepGlint
 - *2019.03* Outstanding academic publication award for master student, Beihang University. 
 - *2019.06* Macau Ph.D. scholarship (1,000,000 MOP). 
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WYPUyek2JoLfJkFYzz0xq0foo5Zcx8BuXFP0ODkcy1w&cl=ffffff&w=a"></script>

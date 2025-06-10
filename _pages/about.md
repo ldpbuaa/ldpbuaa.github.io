@@ -79,6 +79,6 @@ His current research interests include distributed optimization, class imbalance
 
 <div align="center">
     <a href="https://clustrmaps.com/site/1c6jc"  title="ClustrMaps">
-        <img src="//www.clustrmaps.com/map_v2.png?d=WYPUyek2JoLfJkFYzz0xq0foo5Zcx8BuXFP0ODkcy1w&cl=ffffff" width="500" />
+        <img src="//www.clustrmaps.com/map_v2.png?d=WYPUyek2JoLfJkFYzz0xq0foo5Zcx8BuXFP0ODkcy1w&cl=ffffff&w=300" width="300" />
     </a>
 </div>

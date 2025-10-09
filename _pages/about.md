@@ -21,6 +21,8 @@ His current research interests include distributed optimization, class imbalance
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers (one first author) are accepted by NeurIPS 2025. 
+- *2025.08*: &nbsp;🎉🎉 One co-authored (equal contribution) paper is accepted by EMNLP 2025 (main conference). 
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025. 
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
@@ -29,6 +31,18 @@ His current research interests include distributed optimization, class imbalance
 # 📝 Publications 
 
 **2025**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper-flip-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FLiP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning](https://arxiv.org/abs/2503.22263)
+
+**Dongping Liao**, Xitong Gao, Chengzhong Xu,
+
+- To date, the reliable evaluation of federated prompt learning (FPL) algorithms for vision tasks remains an understudied area in current research. In this work, we introduce a comprehensive benchmark, named FLiP, to evaluate FPL algorithms. FLiP assesses the performance of 13 state-of-the-art centralized and FPL methods across 3 FL protocols and 12 open datasets, considering 6 distinct evaluation scenarios. Our findings demonstrate that PL maintains strong generalization performance in both in-distribution and out-of-distribution settings with minimal resource consumption. This work highlights the suitable application scenarios of each FPL algorithm in various environments characterized by data scarcity, unseen classes, and cross-domain distributional shifts.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper-fedpdm-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

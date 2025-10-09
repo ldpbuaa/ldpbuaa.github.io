@@ -44,6 +44,19 @@ His current research interests include distributed optimization, class imbalance
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/paper-mixsga-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization](https://arxiv.org/pdf/2506.13541)
+
+Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao,
+
+- Transformer models face scalability challenges in causal language modeling (CLM) due to inefficient memory allocation for growing keyvalue (KV) caches, which strains compute and storage resources. Existing methods like Grouped Query Attention (GQA) and tokenlevel KV optimization improve efficiency but rely on rigid resource allocation, often discarding “low-priority” tokens or statically grouping them, failing to address the dynamic spectrum of token importance. We propose mixSGA, a novel mixture-of-expert (MoE) approach that dynamically optimizes token-wise computation and memory allocation. Unlike prior approaches, mixSGA retains all tokens while adaptively routing them to specialized experts with varying KV group sizes, balancing granularity and efficiency.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/paper-fedpdm-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

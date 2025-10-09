@@ -38,7 +38,7 @@ His current research interests include distributed optimization, class imbalance
 
 [FLiP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning](https://arxiv.org/abs/2503.22263)
 
-**Dongping Liao**, Xitong Gao, Chengzhong Xu,
+**Dongping Liao**, Xitong Gao, Chengzhong Xu
 
 - To date, the reliable evaluation of federated prompt learning (FPL) algorithms for vision tasks remains an understudied area in current research. In this work, we introduce a comprehensive benchmark, named FLiP, to evaluate FPL algorithms. FLiP assesses the performance of 13 state-of-the-art centralized and FPL methods across 3 FL protocols and 12 open datasets, considering 6 distinct evaluation scenarios. Our findings demonstrate that PL maintains strong generalization performance in both in-distribution and out-of-distribution settings with minimal resource consumption. This work highlights the suitable application scenarios of each FPL algorithm in various environments characterized by data scarcity, unseen classes, and cross-domain distributional shifts.
 </div>
@@ -50,7 +50,7 @@ His current research interests include distributed optimization, class imbalance
 
 [Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization](https://arxiv.org/pdf/2506.13541)
 
-Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao,
+Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao
 
 - Transformer models face scalability challenges in causal language modeling (CLM) due to inefficient memory allocation for growing keyvalue (KV) caches, which strains compute and storage resources. Existing methods like Grouped Query Attention (GQA) and tokenlevel KV optimization improve efficiency but rely on rigid resource allocation, often discarding “low-priority” tokens or statically grouping them, failing to address the dynamic spectrum of token importance. We propose mixSGA, a novel mixture-of-expert (MoE) approach that dynamically optimizes token-wise computation and memory allocation. Unlike prior approaches, mixSGA retains all tokens while adaptively routing them to specialized experts with varying KV group sizes, balancing granularity and efficiency.
 </div>
@@ -62,7 +62,7 @@ Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye
 
 [Progressive Distribution Matching for Federated Semi-supervised Learning](https://ojs.aaai.org/index.php/AAAI/article/view/32551)
 
-**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu,
+**Dongping Liao**, Xitong Gao, Yabo Xu, Chengzhong Xu
 
 - We observe the distribution mismatch phenomenon of federated semi-supervised learning and propose to leverage Optimal Transport to align the distribution of unlabeled data.
 </div>

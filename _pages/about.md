@@ -22,7 +22,7 @@ His current research interests include distributed optimization, class imbalance
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Two papers (one first author) are accepted by NeurIPS 2025. 
-- *2025.08*: &nbsp;🎉🎉 One co-authored (equal contribution) paper is accepted by EMNLP 2025 (main conference). 
+- *2025.08*: &nbsp;🎉🎉 One co-authored paper is accepted by EMNLP 2025 (main conference). 
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025. 
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
@@ -50,7 +50,7 @@ His current research interests include distributed optimization, class imbalance
 
 [Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization](https://arxiv.org/pdf/2506.13541)
 
-Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao
+Guanghui Song, **Dongping Liao**, Yiren Zhao, Kejiang Ye, Cheng-zhong Xu, Xitong Gao
 
 - Transformer models face scalability challenges in causal language modeling (CLM) due to inefficient memory allocation for growing keyvalue (KV) caches, which strains compute and storage resources. Existing methods like Grouped Query Attention (GQA) and tokenlevel KV optimization improve efficiency but rely on rigid resource allocation, often discarding “low-priority” tokens or statically grouping them, failing to address the dynamic spectrum of token importance. We propose mixSGA, a novel mixture-of-expert (MoE) approach that dynamically optimizes token-wise computation and memory allocation. Unlike prior approaches, mixSGA retains all tokens while adaptively routing them to specialized experts with varying KV group sizes, balancing granularity and efficiency.
 </div>
@@ -98,7 +98,7 @@ Guanghui Song<sup>*</sup>, **Dongping Liao<sup>*</sup>**, Yiren Zhao, Kejiang Ye
 # 🎖 Honors and Awards
 - *2018.06* The second place for Gomoku AI Competition, DeepGlint
 - *2019.03* Outstanding academic publication award for master student, Beihang University. 
-- *2019.06* Macau Ph.D. scholarship (1,000,000 MOP). 
+- *2019.06* Macau Ph.D. scholarship (1,000,000 MOP), University of Macau. 
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WYPUyek2JoLfJkFYzz0xq0foo5Zcx8BuXFP0ODkcy1w&cl=ffffff&w=a"></script> -->
 

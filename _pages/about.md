@@ -21,6 +21,7 @@ His current research interests include distributed optimization, class imbalance
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by Transactions on Mobile Computing. 
 - *2025.09*: &nbsp;🎉🎉 Two papers (one first author) are accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 One co-authored paper is accepted by EMNLP 2025 (main conference). 
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025. 
@@ -32,6 +33,16 @@ His current research interests include distributed optimization, class imbalance
 
 **2025**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions on Mobile Computing</div><img src='images/paper-mair-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MAIR: Model Agnostic Instance Reweighing for Heterogeneous Federated Learning]()
+
+**Dongping Liao**, Xitong Gao, Chengzhong Xu
+
+- Federated learning has seen tremendous growth and advancements in recent years. Despite its progress, FL faces a significant challenge raised by data heterogeneity, leading to a slower convergence rate and a larger performance gap compared to centralized training. In this work, we empirically reveal that direct applying empirical risk minimizing (ERM) on skewed client training data causes the client model suffers from biased predictions towards majority classes. To address this problem, we propose a model agnostic instance reweighing method (MAIR). At a coarse-grained level, MAIR adjusts the logits predictions for each class to counteract the data heterogeneity. At a fine-grained level, it dynamically reweighs the importance of individual training samples with a predictive meta network. As a results, MAIR prevents client models from over-fitting on heterogeneous data and therefore substantially reduces client drift. Theoretically, we justify its nonconvex convergence property. Extensive experiments demonstrate that MAIR reliably speeds up convergence and improves the quality of global models, outperforming its best competitor by a clear margin. Our findings also suggest that improving the performance of FL-trained models necessitates rethinking clients' local optimization objectives, and ERM should thus no longer be viewed as a de facto standard in FL under data heterogeneity.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper-flip-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

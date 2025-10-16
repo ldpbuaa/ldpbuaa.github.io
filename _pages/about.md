@@ -21,7 +21,7 @@ His current research interests include distributed optimization, class imbalance
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by Transactions on Mobile Computing. 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by Transactions on Mobile Computing. 
 - *2025.09*: &nbsp;🎉🎉 Two papers (one first author) are accepted by NeurIPS 2025. 
 - *2025.08*: &nbsp;🎉🎉 One co-authored paper is accepted by EMNLP 2025 (main conference). 
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025. 
